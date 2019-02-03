@@ -1,8 +1,8 @@
 ---
 title: 12月13日华西圣约人文学院12.9逼迫简讯
 date: 2018-12-13
-tags: 简讯
-categories: 简讯
+tags: 简报
+categories: 简报
 ---
 华西圣约人文学院12.9逼迫简讯
 

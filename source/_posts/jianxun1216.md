@@ -1,8 +1,8 @@
 ---
 title: 几条信息收录：（12/16，主日）
 date: 2018-12-16
-tags: 简讯
-categories: 简讯
+tags: 简报
+categories: 简报
 ---
 几条信息收录：（12/16，主日）
 
