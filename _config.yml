@@ -5,7 +5,7 @@
 # Site
 title: 秋雨圣约129代祷
 subtitle: 关注成都秋雨圣约归正教会129教案，为肢体代祷
-description:
+description: 2018年12月9日，成都秋雨圣约归正教会遭到大规模打压和抓捕。本站关注秋雨圣约129教案，并发布代祷信息。
 keywords: 秋雨圣约教会, 代祷, 129教案, 基督徒
 author: John Doe
 language:
@@ -13,10 +13,12 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://qiuyu129.cf
 root: /
-permalink: :year/:month/:day/:title/
+#permalink: :year/:month/:day/:title 
+permalink: :year/:id/
 permalink_defaults:
+
 
 # Directory
 source_dir: source
@@ -87,3 +89,6 @@ search:
   field: post
   format: html
   limit: 10000
+
+sitemap: 
+  path: sitemap.xml
