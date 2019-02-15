@@ -4,10 +4,12 @@ date: 2018-12-11 22:56:00
 tags: 
   - 王怡
   - 政治
+  - English
 categories: 发声
 ---
+**我的声明：信仰上的抗命**
 
-###### 王怡牧师
+***王怡牧师***
 
 根据圣经的教导和福音的使命，我尊重上帝在中国设立的掌权者。因为废王、立王，都在于上帝。为此，我顺服上帝对中国历史和制度的安排。
 作为基督教会的一位牧师，我从圣经出发，对社会、政治、法律诸领域，何为公义的秩序和良善的治理，皆有自己的理解和看法。同时，我对中共政权迫害教会、剥夺人类的信仰和良心自由的罪恶，充满厌恶和痛恨。但是，一切社会和政治制度的改变，都不是我蒙召的使命，也不是福音被赐给上帝百姓的目的。
@@ -32,3 +34,52 @@ categories: 发声
 耶稣是基督，是永生上帝的儿子。他为罪人而死，为我们而复活。昨日、今日，直到永远，他都是我的君王和整个世界的主。我是他的仆人，为此被羁押。我将温柔地去反抗一切反抗上帝的人，我将喜乐地不服从任何不服从上帝的法律。
 
 **2018年9月21日初稿，10月4日修订，被羁押48小时之后由教会发布**
+
+English Version:
+
+My Declaration of Faithful Disobedience
+
+On the basis of the teachings of the Bible and the mission of the gospel, I respect the authorities God has established in China. For God deposes kings and raises up kings. This is why I submit to the historical and institutional arrangements of God in China.
+
+As a pastor of a Christian church, I have my own understanding and views, based on the Bible, about what righteous order and good government is. At the same time, I am filled with anger and disgust at the persecution of the church by this Communist regime, at the wickedness of their depriving people of the freedoms of religion and of conscience. But changing social and political institutions is not the mission I have been called to, and it is not the goal for which God has given his people the gospel.
+
+For all hideous realities, unrighteous politics, and arbitrary laws manifest the cross of Jesus Christ, the only means by which every Chinese person must be saved. They also manifest the fact that true hope and a perfect society will never be found in the transformation of any earthly institution or culture but only in our sins being freely forgiven by Christ and in the hope of eternal life.
+
+As a pastor, my firm belief in the gospel, my teaching, and my rebuking of all evil proceeds from Christ’s command in the gospel and from the unfathomable love of that glorious King. Every man’s life is extremely short, and God fervently commands the church to lead and call any man to repentance who is willing to repent. Christ is eager and willing to forgive all who turn from their sins. This is the goal of all the efforts of the church in China—to testify to the world about our Christ, to testify to the Middle Kingdom about the Kingdom of Heaven, to testify to earthly, momentary lives about heavenly, eternal life. This is also the pastoral calling that I have received.
+
+For this reason, I accept and respect the fact that this Communist regime has been allowed by God to rule temporarily. As the Lord’s servant John Calvin said, wicked rulers are the judgment of God on a wicked people, the goal being to urge God’s people to repent and turn again toward Him. For this reason, I am joyfully willing to submit myself to their enforcement of the law as though submitting to the discipline and training of the Lord.
+
+At the same time, I believe that this Communist regime’s persecution against the church is a greatly wicked, unlawful action. As a pastor of a Christian church, I must denounce this wickedness openly and severely. The calling that I have received requires me to use non-violent methods to disobey those human laws that disobey the Bible and God. My Savior Christ also requires me to joyfully bear all costs for disobeying wicked laws.
+
+But this does not mean that my personal disobedience and the disobedience of the church is in any sense “fighting for rights” or political activism in the form of civil disobedience, because I do not have the intention of changing any institutions or laws of China. As a pastor, the only thing I care about is the disruption of man’s sinful nature by this faithful disobedience and the testimony it bears for the cross of Christ.  
+
+As a pastor, my disobedience is one part of the gospel commission. Christ’s great commission requires of us great disobedience. The goal of disobedience is not to change the world but to testify about another world.
+
+For the mission of the church is only to be the church and not to become a part of any secular institution. From a negative perspective, the church must separate itself from the world and keep itself from being institutionalized by the world. From a positive perspective, all acts of the church are attempts to prove to the world the real existence of another world. The Bible teaches us that, in all matters relating to the gospel and human conscience, we must obey God and not men. For this reason, spiritual disobedience and bodily suffering are both ways we testify to another eternal world and to another glorious King.
+
+This is why I am not interested in changing any political or legal institutions in China. I’m not even interested in the question of when the Communist regime’s policies persecuting the church will change. Regardless of which regime I live under now or in the future, as long as the secular government continues to persecute the church, violating human consciences that belong to God alone, I will continue my faithful disobedience. For the entire commission God has given me is to let more Chinese people know through my actions that the hope of humanity and society is only in the redemption of Christ, in the supernatural, gracious sovereignty of God.
+
+If God decides to use the persecution of this Communist regime against the church to help more Chinese people to despair of their futures, to lead them through a wilderness of spiritual disillusionment and through this to make them know Jesus, if through this he continues disciplining and building up his church, then I am joyfully willing to submit to God’s plans, for his plans are always benevolent and good.
+
+Precisely because none of my words and actions are directed toward seeking and hoping for societal and political transformation, I have no fear of any social or political power. For the Bible teaches us that God establishes governmental authorities in order to terrorize evildoers, not to terrorize doers of good. If believers in Jesus do no wrong then they should not be afraid of dark powers. Even though I am often weak, I firmly believe this is the promise of the gospel. It is what I’ve devoted all of my energy to. It is the good news that I am spreading throughout Chinese society.
+
+I also understand that this happens to be the very reason why the Communist regime is filled with fear at a church that is no longer afraid of it.
+
+If I am imprisoned for a long or short period of time, if I can help reduce the authorities’ fear of my faith and of my Savior, I am very joyfully willing to help them in this way. But I know that only when I renounce all the wickedness of this persecution against the church and use peaceful means to disobey, will I truly be able to help the souls of the authorities and law enforcement. I hope God uses me, by means of first losing my personal freedom, to tell those who have deprived me of my personal freedom that there is an authority higher than their authority, and that there is a freedom that they cannot restrain, a freedom that fills the church of the crucified and risen Jesus Christ.
+
+Regardless of what crime the government charges me with, whatever filth they fling at me, as long as this charge is related to my faith, my writings, my comments, and my teachings, it is merely a lie and temptation of demons. I categorically deny it. I will serve my sentence, but I will not serve the law. I will be executed, but I will not plead guilty.
+
+Moreover, I must point out that persecution against the Lord’s church and against all Chinese people who believe in Jesus Christ is the most wicked and the most horrendous evil of Chinese society. This is not only a sin against Christians. It is also a sin against all non-Christians. For the government is brutally and ruthlessly threatening them and hindering them from coming to Jesus. There is no greater wickedness in the world than this.
+
+If this regime is one day overthrown by God, it will be for no other reason than God’s righteous punishment and revenge for this evil. For on earth, there has only ever been a thousand-year church. There has never been a thousand-year government. There is only eternal faith. There is no eternal power.
+
+Those who lock me up will one day be locked up by angels. Those who interrogate me will finally be questioned and judged by Christ.  When I think of this, the Lord fills me with a natural compassion and grief toward those who are attempting to and actively imprisoning me. Pray that the Lord would use me, that he would grant me patience and wisdom, that I might take the gospel to them. 
+
+Separate me from my wife and children, ruin my reputation, destroy my life and my family – the authorities are capable of doing all of these things. However, no one in this world can force me to renounce my faith; no one can make me change my life; and no one can raise me from the dead.   
+
+And so, respectable officers, stop committing evil. This is not for my benefit but rather for yours and your children’s. I plead earnestly with you to stay your hands, for why should you be willing to pay the price of eternal damnation in hell for the sake of a lowly sinner such as I?
+
+Jesus is the Christ, son of the eternal, living God. He died for sinners and rose to life for us. He is my king and the king of the whole earth yesterday, today, and forever. I am his servant, and I am imprisoned because of this. I will resist in meekness those who resist God, and I will joyfully violate all laws that violate God’s laws.  
+
+The Lord’s servant,
+Wang Yi 

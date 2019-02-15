@@ -1,6 +1,6 @@
 ---
 title: 关于
-date: 2019-02-01 16:00:42
+date: 
 ---
 
 ### 关于本站
@@ -29,5 +29,5 @@ https://qy129.github.io
 Github： https://github.com/chengduqiuyu/-/issues
 Facebook： https://zh-cn.facebook.com/earlyraincovenantchurch/
 邮箱： earlyraincovenantchurch@gmail.com
-
+Telegram思念频道：https://t.me/qysysnpd
 
