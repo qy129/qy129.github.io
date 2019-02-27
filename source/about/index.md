@@ -16,7 +16,7 @@ date:
 **本站的网址：**
 https://qy129.me
 https://qy129.github.io
-~~https://qiuyu129.cf~~
+~~https://qiuyu129.cf~~（已失效）
 两个都可以访问，内容一样
 
 ### 信仰立场
@@ -34,6 +34,23 @@ Github： https://github.com/chengduqiuyu/-/issues （免翻墙）
 Facebook： https://zh-cn.facebook.com/earlyraincovenantchurch/
 邮箱： earlyraincovenantchurch@gmail.com
 Telegram思念频道：https://t.me/qysysnpd
+
+### 科学上网
+秋雨之福的Facebook和Telegram频道需要翻墙才能访问，给大家介绍简单的翻墙方法。
+
+Windows和安卓：
+1. 蓝灯 Lantern
+https://github.com/getlantern/lantern
+2. 赛风 Psiphon
+使用国外邮箱发一封邮件到get@psiphon3.com
+
+苹果iPhone手机：
+1. 尼马代理（中国区Apple Store）
+2. 赛风 （非中国区Apple Store）
+
+免翻墙使用电报Telegram，可以尝试**Telegram X**或**Biyong**
+
+
 
 
 <img src="https://yip.su/1WnpM6" alt="yip.su - IP Logging Service" border="0">
