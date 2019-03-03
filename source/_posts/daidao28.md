@@ -47,6 +47,11 @@ Today, brothers and sisters are still being taken from their homes. New situatio
 Early Rain Covenant Church
 February 25, 2019"
 
+![](https://images2.imgbox.com/8b/88/Owx7mzyj_o.jpg)
+![](https://images2.imgbox.com/5f/59/UHCSawNA_o.jpg)
+![](https://images2.imgbox.com/64/53/81sqDVnT_o.jpg)
+​
+
 附：
 昨天王怡牧师的母亲在银行拒绝警察偷看密码而被殴打的事发之后，今天已经有几位弟兄姐妹被警告不要乱说话，阿信弟兄也因此被控造谣生事而拘留10天。更令人气愤的是，汪家拐派出所的所长和打人的警察张俊虎（警号075557）不仅没有来道歉，反而是市局的警察来放了被篡改了的银行监控录像，威胁奶奶说可以按照此录像指控她袭警而抓她。
 
