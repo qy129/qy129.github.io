@@ -14,9 +14,10 @@ date:
 联系方式： qy129@protonmail.com
 
 **本站的网址：**
-https://qy129.me
-https://qy129.github.io
-~~https://qiuyu129.cf~~（已失效）
+https://2018129.xyz  
+https://qy129.github.io  
+~~https://qy129.me~~（已失效）  
+~~https://qiuyu129.cf~~（已失效）  
 两个都可以访问，内容一样
 
 ### 信仰立场
@@ -30,10 +31,10 @@ https://qy129.github.io
 ### 秋雨圣约官方网站
 本站非秋雨圣约教会官方网站，
 **秋雨圣约教会的官方网站为：**
-Github： https://github.com/chengduqiuyu/-/issues （免翻墙）
+Github： https://github.com/chengduqiuyu/-/issues （免翻墙，速度慢）
 Facebook： https://zh-cn.facebook.com/earlyraincovenantchurch/
 邮箱： earlyraincovenantchurch@gmail.com
-Telegram思念频道：https://t.me/qysysnpd
+Telegram思念频道：https://t.me/qysysnpd （已停更）
 
 ### 科学上网
 秋雨之福的Facebook和Telegram频道需要翻墙才能访问，给大家介绍简单的翻墙方法。
@@ -44,11 +45,11 @@ https://github.com/getlantern/lantern
 2. 赛风 Psiphon
 使用国外邮箱发一封邮件到get@psiphon3.com
 
-苹果iPhone手机：
-1. 尼马代理（中国区Apple Store）
+苹果iPhone手机：  
+1. 尼马代理（中国区Apple Store）（已失效）  
 2. 赛风 （非中国区Apple Store）
 
-免翻墙使用电报Telegram，可以尝试**Telegram X**或**Biyong**
+免翻墙使用电报Telegram，可以尝试**Telegram X**或**Biyong**（已失效
 
 
 
